@@ -1,24 +1,16 @@
-# vuevixens-instagram
+# Mini taller para construir una aplicación instagram.
 
-## Project setup
-```
-npm install
-```
+Se ha utilizado **HTML5 | SCSS | VUE |** y otras herramientas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Se debe instalar lo siguiente
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* **Node and npm**.
+* **Vue cli dependancy**.
+* Un editor de código como por ejemplo **Visual Studio Code**.
+* Algunas extensiones recomendadas (**Vue Developer Tools**, **Vetur**).
 
-### Lints and fixes files
-```
-npm run lint
-```
+Ahora ya se puede crear un proyecto escribiendo en la terminal:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* vue create vuevixens-instagram.
+* cd vuevixens-instagram.
+* npm run serve.
